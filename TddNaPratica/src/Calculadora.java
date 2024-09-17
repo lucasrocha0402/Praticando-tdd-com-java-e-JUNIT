@@ -10,6 +10,7 @@ public class Calculadora {
     public int Soma(int valorA, int valorB){
         return valorA + valorB;
     }
+    
 
     //Metodo de subtração para ser valdiado pelo metodo de testeDeveriaSubtrairDoisNumeros;
     public int Subtracao(int valorA, int valorB){
